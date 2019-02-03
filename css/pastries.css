@@ -1,0 +1,32 @@
+p{color :green;}
+
+.red-paragraph{color:red;}
+
+.blue-paragraph{color:blue;}
+
+nav{font-size:24px;}
+
+h1 {color:peru;}
+
+#leftcolumn {
+    float: left;
+    width:25%;
+    font-size:18px
+ }
+ 
+ #middlecolumn {
+    float: left;
+    width:25%;
+    font-size:18px
+ }
+ 
+ #rightcolumn {
+    float: left;
+    width: 25%;
+    font-size:18px
+ }
+
+ footer {
+    clear:both;
+    font-size:20px; 
+    }
